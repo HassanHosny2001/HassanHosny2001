@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Hassan
-- 👀 I’m interested in data science
+- 👀 I’m interested in data engineer
 - 🌱 I’m currently learning data analysis
